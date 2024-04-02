@@ -15,3 +15,7 @@ generates:
       - fragment-matcher
     config:
       dedupeFragments: true
+      fetcher:
+        #what function to run?
+        func: "./auth-fetcher#fetcher"
+        isReactHook: false
