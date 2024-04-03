@@ -11,6 +11,10 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^5.28.9",
+    "@thirdweb-dev/react": "^4.4.30",
+    "@thirdweb-dev/sdk": "^4.0.56",
+    "@thirdweb-dev/storage": "^2.0.13",
+    "ethers": "^5.7.2",
     "graphql": "^16.8.1",
     "next": "14.1.4",
     "react": "^18",
